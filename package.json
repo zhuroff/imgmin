@@ -1,0 +1,15 @@
+{
+  "name": "imgmin",
+  "version": "1.0.0",
+  "description": "Image cropper & minificator",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-size": "^1.0.0",
+    "jimp": "^0.16.1"
+  }
+}
