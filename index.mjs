@@ -8,7 +8,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const srcFolder = path.join(__dirname, 'src')
 const data = fs.readdirSync(srcFolder, { withFileTypes: true })
-const horizontalSize = 1200
+const horizontalSize = 400
 const verticalSize = 600
 const imgQuality = 80
 

@@ -5,3 +5,7 @@ yarn-error.log*
 node_modules/
 .npm
 .idea
+src/*
+dist/*
+!src/.gitignore
+!dist/.gitignore
